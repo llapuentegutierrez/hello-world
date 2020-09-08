@@ -1,5 +1,4 @@
 # hello-world
-My name is....
+Ejemplo de proyecto
+Aquí se podría editar el código
 
-
-Solo he escrito "My name is...."
